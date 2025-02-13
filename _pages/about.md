@@ -43,7 +43,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
   <div class='paper-box-text' markdown="1">
 
   [Improved Training Technique for Latent Consistency Models](https://arxiv.org/abs/2502.01441) \\
-  Quan Dao*&dagger;, **Khanh Doan***, Di Liu, Trung Le, and Dimitris Metaxas. \\
+  Quan Dao\*&dagger;, **Khanh Doan\***, Di Liu, Trung Le, and Dimitris Metaxas. \\
   The Thirteenth International Conference on Learning Representations (ICLR), 2025. \\
   <a href="https://openreview.net/forum?id=PQjZes6vFV"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2025&color=blue"></a>
   <a href="https://arxiv.org/abs/2502.01441"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
@@ -89,6 +89,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
   2022 IEEE 33rd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2022. \\
   <a href="https://ieeexplore.ieee.org/abstract/document/9978107"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=PIMRC 2022&color=purple"></a>
   <a href="https://ieeexplore.ieee.org/abstract/document/9978107"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+  <a href="https://github.com/AIoT-Lab-BKAI/CuongNH-WRSN-DQN"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> 
   </div>
 </div>
 
@@ -117,7 +118,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
 <details>
   <summary>Notations</summary>
   <div markdown="1">
-  - *: Equal contributions
+  - \*: Equal contributions
   - &dagger;: Project Lead & Corresponding Author
   </div>
 </details>
@@ -130,10 +131,10 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
 
 - **Second Prize** in Ministerial Science and Technology Award for Students in Higher Education
 Institutions, 2022
-- **Gold Medals** for Group A of Algebra and Calculus in Vietnamese Mathematical Olympiad for
-college students VMS, 2019
-- **Second Prize** in Vietnamese Mathematical Olympiad VMO, 2018
-- **Third Prize** in Vietnamese Mathematical Olympiad VMO, 2017
+- **Gold Medals** for both Algebra and Calculus, Group A, Vietnamese Mathematical Olympiad for
+college students, Vietnam Mathematical Society (VMS), 2019
+- **Second Prize** in Vietnamese Mathematical Olympiad (VMO), 2018
+- **Third Prize** in Vietnamese Mathematical Olympiad (VMO), 2017
 
 <!-- # 💬 Invited Talks
 - *2022.11*, Inter-Experimental LHC Machine Learning Working Group, CERN
