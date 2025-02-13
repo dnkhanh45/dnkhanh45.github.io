@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a Research Resident under the supervision of [Prof. Trung Le](https://scholar.google.com/citations?user=gysdMxwAAAAJ) at [VinAI Research](https://www.vinai.io), Vietnam. Previously, I worked in [Dr. Phi Le Nguyen](https://users.soict.hust.edu.vn/lenp)'s group (ICN Lab) at The School of Information and Communications Technology, Hanoi University of Science and Technology (HUST).I received a bachelor's degree in Computer Science from HUST in 2023.
+I am a Research Resident under the supervision of [Prof. Trung Le](https://scholar.google.com/citations?user=gysdMxwAAAAJ) at [VinAI Research](https://www.vinai.io), Vietnam. Previously, I worked in [Prof. Phi Le Nguyen](https://users.soict.hust.edu.vn/lenp)'s group (ICN Lab) at The School of Information and Communications Technology, Hanoi University of Science and Technology (HUST).I received a bachelor's degree in Computer Science from HUST in 2023.
 
 My research focuses on Deep Generative Models, including Diffusion Models, Consistency Models, and Auto-Regressive Models. I am particularly interested in improving generation quality and computational efficiency in both the training and inference stages.
 
