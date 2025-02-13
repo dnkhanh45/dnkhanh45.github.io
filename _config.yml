@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Duy Nguyen"
-description              : "Ph.D. student in Computer Science at UNC Chapel Hill"
-repository               : "duykhuongnguyen/duykhuongnguyen.github.io"
+title                    : "Khanh Doan"
+description              : "Research Resident at VinAI Research"
+repository               : "dnkhanh45/dnkhanh45.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Duy Nguyen"
-  avatar           : "images/avatar.png"
+  name             : "Khanh Doan"
+  avatar           : "images/avatar.jpg"
   bio              :
-  location         : "Chapel Hill, NC"
+  location         : "Hanoi, Vietnam"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=y323M_cAAAAJ&hl=vi&authuser=1"
-  email            : "duykhuongnguyen277@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=AOYl4xQAAAAJ"
+  email            : "dnkhanh.k63.bk@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "duykhuongnguyen"
+  github           : "dnkhanh45"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "duy-nguyen-89272a17b"
+  linkedin         : "dnkhanh45"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "resume/DuyNguyen_CV.pdf"
+  cv               : # "resume/DuyNguyen_CV.pdf"
 
 
 # Reading Files
