@@ -29,6 +29,13 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
 - *September 2024*: Our paper [Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation](https://arxiv.org/abs/2410.15618) is accepted to NeurIPS 2024!
 
 # 📝 Publications
+<details>
+  <summary>Notations</summary>
+  <div markdown="1">
+  - \*: Equal contributions
+  - &dagger;: Project Lead & Corresponding Author
+  </div>
+</details>
 
 <!-- Improved Training Technique for Latent Consistency Models -->
 <div class='paper-box'>
@@ -113,15 +120,6 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
   <a href="https://github.com/VietHoang1512/KPA"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> 
   </div>
 </div>
-
-
-<details>
-  <summary>Notations</summary>
-  <div markdown="1">
-  - \*: Equal contributions
-  - &dagger;: Project Lead & Corresponding Author
-  </div>
-</details>
 
 # 🎖 Honors and Awards
 
