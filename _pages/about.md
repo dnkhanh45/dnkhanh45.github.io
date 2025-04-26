@@ -44,7 +44,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
       <div class="badge">
         ICLR 2025
       </div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images\iLCT.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -65,7 +65,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
       <div class="badge">
         ICLR 2025
       </div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images\BoostCL.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
