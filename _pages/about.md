@@ -25,17 +25,17 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
 
 # 🔥 News
 
-- *January 2025*: Our paper [Improved Training Technique for Latent Consistency Models](https://arxiv.org/abs/2502.01441) is accepted to ICLR 2025!
+- *January 2025*: Our two papers [Improved Training Technique for Latent Consistency Models](https://arxiv.org/abs/2502.01441) and [Boosting Multiple Views for pretrained-based Continual Learning](https://openreview.net/pdf?id=AZR4R3lw7y) are accepted to ICLR 2025!
 - *September 2024*: Our paper [Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation](https://arxiv.org/abs/2410.15618) is accepted to NeurIPS 2024!
 
 # 📝 Publications
-<details>
+<!-- <details>
   <summary>Notations</summary>
   <div markdown="1">
   - \*: Equal contributions
   - &dagger;: Project Lead & Corresponding Author
   </div>
-</details>
+</details> -->
 
 <!-- Improved Training Technique for Latent Consistency Models -->
 <div class='paper-box'>
@@ -54,7 +54,44 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
   The Thirteenth International Conference on Learning Representations (ICLR), 2025. \\
   <a href="https://openreview.net/forum?id=PQjZes6vFV"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2025&color=blue"></a>
   <a href="https://arxiv.org/abs/2502.01441"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-  <a href="https://github.com/quandao10/sLCT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> 
+  <a href="https://github.com/quandao10/sLCT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+  </div>
+    <div>
+      <details>
+      <summary>Notations</summary>
+      <div markdown="1">
+      - \*: Equal contributions
+      - &dagger;: Project Lead & Corresponding Author
+      </div>
+    </details>
+  </div>
+</div>
+
+<!-- Boosting Multiple Views for pretrained-based Continual Learning -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">
+        ICLR 2025
+      </div>
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [Boosting Multiple Views for pretrained-based Continual Learning](https://openreview.net/pdf?id=AZR4R3lw7y) \\
+  Quyen Tran\*, Lam Tran\*, **Khanh Doan**, Toan Tran, Dinh Phung, Khoat Than\*\*, and Trung Le\*\*. \\
+  The Thirteenth International Conference on Learning Representations (ICLR), 2025. \\
+  <a href="https://openreview.net/pdf?id=AZR4R3lw7y"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2025&color=blue"></a>
+  </div>
+    <div>
+      <details>
+      <summary>Notations</summary>
+      <div markdown="1">
+      - \*, \**: Equal contributions
+      </div>
+    </details>
+  </div>
   </div>
 </div>
 
