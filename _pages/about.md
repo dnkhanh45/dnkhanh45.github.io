@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a Research Resident under the supervision of [Dr. Toan Tran](https://scholar.google.com/citations?user=PnwSuNMAAAAJ), [Dr. Tung Pham](https://scholar.google.com/citations?user=KcUuEKsAAAAJ), and [Prof. Trung Le](https://scholar.google.com/citations?user=gysdMxwAAAAJ) at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence), Vietnam. Previously, I worked in [Prof. Phi Le Nguyen](https://users.soict.hust.edu.vn/lenp)'s group (ICN Lab) at School of Information and Communications Technology ([SoICT](https://soict.hust.edu.vn/en/)), Hanoi University of Science and Technology ([HUST](https://hust.edu.vn/en/)). I received a bachelor's degree in Computer Science from HUST in 2023.
+I am a Research Resident under the supervision of [Dr. Toan Tran](https://scholar.google.com/citations?user=PnwSuNMAAAAJ), [Dr. Tung Pham](https://scholar.google.com/citations?user=KcUuEKsAAAAJ), and [Prof. Trung Le](https://scholar.google.com/citations?user=gysdMxwAAAAJ) at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence), Vietnam. Previously, I worked in [Prof. Phi Le Nguyen](https://ai4life.hust.edu.vn/lenp/)'s group (ICN Lab) at School of Information and Communications Technology ([SoICT](https://soict.hust.edu.vn/en/)), Hanoi University of Science and Technology ([HUST](https://hust.edu.vn/en/)). I received a bachelor's degree in Computer Science from HUST in 2023.
 
 My research focuses on Deep Generative Models, including Diffusion Models, Consistency Models, and Auto-Regressive Models. I am particularly interested in improving generation quality and computational efficiency in both the training and inference stages.
 
@@ -73,7 +73,8 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
   [Boosting Multiple Views for pretrained-based Continual Learning](https://openreview.net/pdf?id=AZR4R3lw7y) \\
   Quyen Tran\*, Lam Tran\*, **Khanh Doan**, Toan Tran, Dinh Phung, Khoat Than\*\*, and Trung Le\*\*. \\
   The Thirteenth International Conference on Learning Representations (ICLR), 2025. \\
-  <a href="https://openreview.net/pdf?id=AZR4R3lw7y"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2025&color=blue"></a> 
+  <a href="https://openreview.net/forum?id=AZR4R3lw7y"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2025&color=blue"></a>
+  <a href="https://openreview.net/pdf?id=AZR4R3lw7y"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a> 
   </div>
 </div>
 
@@ -148,6 +149,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
 
 - **Second Prize** in Ministerial Science and Technology Award for Students in Higher Education
 Institutions, 2022
+- **Excellent (A-class)** Study Encouragement Scholarship at Hanoi University of Science and Technology, 2021
 - **Gold Medals** for both Algebra and Calculus, Group A, Vietnamese Mathematical Olympiad for
 college students, Vietnam Mathematical Society (VMS), 2019
 - **Second Prize** in Vietnamese Mathematical Olympiad (VMO), 2018
@@ -171,4 +173,4 @@ college students, Vietnam Mathematical Society (VMS), 2019
 # 💻 Experience
 - *April 2025 - Now*: Research Resident at Qualcomm AI Research, Vietnam
 - *August 2023 - March 2025*: Research Resident at VinAI Research, Vietnam
-- *August 2021 - June 2023*: ICN Lab, The School of Information and Communications Technology, Hanoi University of Science and Technology (HUST), Vietnam
+- *August 2021 - June 2023*: ICN Lab, School of Information and Communications Technology, Hanoi University of Science and Technology (HUST), Vietnam
