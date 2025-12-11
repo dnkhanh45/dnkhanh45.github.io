@@ -54,7 +54,12 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
   The Thirteenth International Conference on Learning Representations (ICLR), 2025. \\
   <a href="https://openreview.net/forum?id=PQjZes6vFV"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2025&color=blue"></a>
   <a href="https://arxiv.org/abs/2502.01441"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-  <a href="https://github.com/quandao10/sLCT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> 
+  <a alt="Abstract">
+    <details>
+    Hello ABC!
+    </details>
+  </a>
+  <a href="https://github.com/quandao10/sLCT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
   </div>
 </div>
 
@@ -133,7 +138,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
   <div class='paper-box-text' markdown="1">
 
   [Matching the statements: A simple and accurate model for key point analysis](https://aclanthology.org/2021.argmining-1.17/) \\
-  [Hoang Phan](https://viethoang1512.github.io/), Long Nguyen, Long Nguyen, and **Khanh Doan**. \\
+  [Hoang Phan](https://viethoang1512.github.io/), Tien Long Nguyen, Duc Long Nguyen, and **Khanh Doan**. \\
   Proceedings of the 8th Workshop on Argument Mining, the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021. \\
   <a href="https://aclanthology.org/2021.argmining-1.17/"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=EMNLP 2021&color=orange"></a>
   <a href="https://aclanthology.org/2021.argmining-1.17/"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
