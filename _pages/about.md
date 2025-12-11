@@ -54,13 +54,21 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
   The Thirteenth International Conference on Learning Representations (ICLR), 2025. \\
   <a href="https://openreview.net/forum?id=PQjZes6vFV"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR 2025&color=blue"></a>
   <a href="https://arxiv.org/abs/2502.01441"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-  <a alt="Abstract">
-    <details>
-    Hello ABC!
-    </details>
-  </a>
   <a href="https://github.com/quandao10/sLCT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
   </div>
+  <details>
+    <summary>Abstract</summary>
+    <div markdown="1">
+    Consistency models are a new family of generative models capable of producing high-quality samples in either a single step or multiple steps. Recently, consistency models have demonstrated impressive performance, achieving results on par with diffusion models in the pixel space. However, the success of scaling consistency training to large-scale datasets, particularly for text-to-image and video generation tasks, is determined by performance in the latent space. In this work, we analyze the statistical differences between pixel and latent spaces, discovering that latent data often contains highly impulsive outliers, which significantly degrade the performance of iCT in the latent space. To address this, we replace Pseudo-Huber losses with Cauchy losses, effectively mitigating the impact of outliers. Additionally, we introduce a diffusion loss at early timesteps and employ optimal transport (OT) coupling to further enhance performance. Lastly, we introduce the adaptive scaling-c scheduler to manage the robust training process and adopt Non-scaling LayerNorm in the architecture to better capture the statistics of the features and reduce outlier impact. With these strategies, we successfully train latent consistency models capable of high-quality sampling with one or two steps, significantly narrowing the performance gap between latent consistency and diffusion models.
+    </div>
+  </details>
+
+  <details>
+    <summary>Abstract</summary>
+    <div>
+    Consistency models are a new family of generative models capable of producing high-quality samples in either a single step or multiple steps. Recently, consistency models have demonstrated impressive performance, achieving results on par with diffusion models in the pixel space. However, the success of scaling consistency training to large-scale datasets, particularly for text-to-image and video generation tasks, is determined by performance in the latent space. In this work, we analyze the statistical differences between pixel and latent spaces, discovering that latent data often contains highly impulsive outliers, which significantly degrade the performance of iCT in the latent space. To address this, we replace Pseudo-Huber losses with Cauchy losses, effectively mitigating the impact of outliers. Additionally, we introduce a diffusion loss at early timesteps and employ optimal transport (OT) coupling to further enhance performance. Lastly, we introduce the adaptive scaling-c scheduler to manage the robust training process and adopt Non-scaling LayerNorm in the architecture to better capture the statistics of the features and reduce outlier impact. With these strategies, we successfully train latent consistency models capable of high-quality sampling with one or two steps, significantly narrowing the performance gap between latent consistency and diffusion models.
+    </div>
+  </details>
 </div>
 
 <!-- Boosting Multiple Views for pretrained-based Continual Learning -->
