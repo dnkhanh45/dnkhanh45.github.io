@@ -169,6 +169,6 @@ college students, Vietnam Mathematical Society (VMS), 2019
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
+- *April 2025 - Now*: Research Resident at Qualcomm AI Research, Vietnam
+- *August 2023 - March 2025*: Research Resident at VinAI Research, Vietnam
 - *August 2021 - June 2023*: ICN Lab, The School of Information and Communications Technology, Hanoi University of Science and Technology (HUST), Vietnam
-- *August 2023 - Mar 2025*: Research Resident at VinAI Research, Vietnam
-- *Apr 2025 - Now*: Research Resident at Qualcomm AI Research, Vietnam
