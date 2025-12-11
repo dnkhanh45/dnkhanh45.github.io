@@ -44,7 +44,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
       <div class="badge">
         ICLR 2025
       </div>
-      <img src='images\iLCT.png' alt="sym" width="100%">
+      <img src='images\(ICLR 2025) iLCT.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -65,7 +65,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
       <div class="badge">
         ICLR 2025
       </div>
-      <img src='images\BoostCL.png' alt="sym" width="100%">
+      <img src='images\(ICLR 2025) BoostCL.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -84,7 +84,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
       <div class="badge">
         NeurIPS 2024
       </div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/(NeuRIPS 2024) EraseConcept.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -105,7 +105,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
       <div class="badge">
         PIMRC 2022
       </div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/(PIMRC 2022) WRSNs.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -126,7 +126,7 @@ My research focuses on Deep Generative Models, including Diffusion Models, Consi
       <div class="badge">
         EMNLP 2021 Workshop
       </div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/(EMNLP 2021 W) MatchStatement.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
