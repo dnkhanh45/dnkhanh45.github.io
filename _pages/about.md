@@ -21,7 +21,7 @@ redirect_from:
 
 I am a Research Resident under the supervision of [Dr. Toan Tran](https://scholar.google.com/citations?user=PnwSuNMAAAAJ), [Dr. Tung Pham](https://scholar.google.com/citations?user=KcUuEKsAAAAJ), and [Prof. Trung Le](https://scholar.google.com/citations?user=gysdMxwAAAAJ) at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence), Vietnam. Previously, I worked in [Prof. Phi Le Nguyen](https://ai4life.hust.edu.vn/lenp/)'s group (ICN Lab) at School of Information and Communications Technology ([SoICT](https://soict.hust.edu.vn/en/)), Hanoi University of Science and Technology ([HUST](https://hust.edu.vn/en/)). I received a bachelor's degree in Computer Science from HUST in 2023.
 
-My research focuses on Deep Generative Models, including Diffusion Models, Consistency Models, and Auto-Regressive Models. I am particularly interested in improving generation quality and computational efficiency in both the training and inference stages.
+MMy research focuses on Deep Generative Models, including Diffusion Models, Consistency Models, and Auto-Regressive Models. I am particularly interested in improving generation quality and computational efficiency in both the training and inference stages. Additionally, I am keen on exploring real-world applications of Generative Models, particularly in Robotics.
 
 # 🔥 News
 
@@ -171,6 +171,6 @@ college students, Vietnam Mathematical Society (VMS), 2019
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
-- *April 2025 - Now*: Research Resident at Qualcomm AI Research, Vietnam
+- *April 2025 - February 2026*: Research Resident at Qualcomm AI Research, Vietnam
 - *August 2023 - March 2025*: Research Resident at VinAI Research, Vietnam
 - *August 2021 - June 2023*: ICN Lab, School of Information and Communications Technology, Hanoi University of Science and Technology (HUST), Vietnam
